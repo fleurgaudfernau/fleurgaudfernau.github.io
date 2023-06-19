@@ -141,7 +141,7 @@ Here are two lists of all the open-source datasets that I encountered (checked a
    <tr><td>2018</td>
       <td>Bozek et al. (dHCP atlas)</td>
       <td>Neonatal cortical surface atlas (🧠) </td>
-       <td>Meshes</td>
+       <td>Mesh</td>
        <td>White, pial, midthickness surface templates between 28-44 weeks</td>
        <td><a href="http://brain-development.org/
 brain-atlases/cortical-surface-atlas"> <i class="fas fa-link"></i></a>
@@ -150,7 +150,7 @@ brain-atlases/cortical-surface-atlas"> <i class="fas fa-link"></i></a>
    <tr><td>2018</td>
       <td>Wu et al.</td>
       <td>Neonatal cortical surface atlas (🧠)</td>
-       <td></td>
+       <td>Mesh</td>
        <td>Spherical and inner cortical surface between 39-44 weeks</td>
        <td><a href="https://www.nitrc.org/projects/infantsurfatlas/"> <i class="fas fa-link"></i></a>
           </td></tr>
@@ -158,7 +158,7 @@ brain-atlases/cortical-surface-atlas"> <i class="fas fa-link"></i></a>
    <tr><td>2020</td>
       <td>Adamson et al. (M-CRIB-S atlas)</td>
       <td>Neonatal cortical surface atlas (🧠)</td>
-       <td></td>
+       <td>Mesh</td>
        <td>Spherical templates of cortical curvature and sulcal depth</td>
        <td><a href="https://www.github.com/
 DevelopmentalImagingMCRI/MCRIBS"> <i class="fas fa-link"></i></a>
