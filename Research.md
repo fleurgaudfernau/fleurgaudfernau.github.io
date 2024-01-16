@@ -53,24 +53,24 @@ display_categories: [work]
 
 ### Talks
 
- <dl>  <dt><img src="https://img.shields.io/badge/Jan. 2024-1138b2.svg"></dt>
-<dd> Presentation at<a href="https://shape-analysis.github.io/"> the Paris shape seminar</a>: <b>Multiscale optimisation for shape registration</b> <a href="[/assets/img/zoom_4.mp4](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/2654259/A-multiscale-algorithm-for-computing-realistic-image-transformation--application/10.1117/12.2654259.short?SSO=1)"> Link to the presentation </a> 
+ <dl>  <dt><img src="https://img.shields.io/badge/Jan. 2024-5a95c1.svg"></dt>
+<dd> Presentation at the<a href="https://shape-analysis.github.io/"> Paris shape seminar</a>: <b>Multiscale optimisation for shape registration</b> <a href="[/assets/img/zoom_4.mp4](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/2654259/A-multiscale-algorithm-for-computing-realistic-image-transformation--application/10.1117/12.2654259.short?SSO=1)"> Link to the presentation </a> 
     </dd></dl>
 
 
- <dl>  <dt><img src="https://img.shields.io/badge/Feb. 2023-1138b2.svg"></dt>
+ <dl>  <dt><img src="https://img.shields.io/badge/Feb. 2023-3589a1.svg"></dt>
 <dd> Presentation at<a href="https://spie.org/conferences-and-exhibitions/medical-imaging/program/browse-program ">  SPIE Medical Imaging 2023:</a> <b>A multiscale algorithm for computing realistic image transformations in the LDDMM framework – application to the modelling of fetal brain growth </b> 
      <a href="[/assets/img/zoom_4.mp4](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/2654259/A-multiscale-algorithm-for-computing-realistic-image-transformation--application/10.1117/12.2654259.short?SSO=1)"> Link to the presentation </a> 
     </dd></dl>
 
-<dl><dt><img src="https://img.shields.io/badge/June 2022-118ab2.svg"></dt>
+<dl><dt><img src="https://img.shields.io/badge/June 2022-2e7a7d.svg"></dt>
 <dd>  Presentation at the Decision and Bayesian Computation Lab meeting (Institut Pasteur): <b>Wavelet-based multiscale atlas estimation</b> </dd>
 
 </dl>
 
 <dl>
 <dt>
-    <img src="https://img.shields.io/badge/Oct. 2021-00a19e.svg"></dt>
+    <img src="https://img.shields.io/badge/Oct. 2021-37695c.svg"></dt>
     
 <dd>  Talk at the MICCAI-PIPPI (Perinatal, Preterm and Paedriatric Image Analysis) workshop: <b>Analysis of the Anatomical Variability of Fetal Brains with Corpus Callosum Agenesis</b> <a href="https://pippiworkshop.github.io/"> <img src="/assets/img/PIPPI-Logo2021.png" alt="drawing" width="110"/> </a> - <a href="/assets/img/zoom_4.mp4"> Video of the presentation </a> </dd>
 
@@ -86,19 +86,19 @@ display_categories: [work]
 
 <dl>
 
-<dt><img src="https://img.shields.io/badge/July 2023-1138b2.svg"></dt>
+<dt><img src="https://img.shields.io/badge/July 2023-3589a1.svg"></dt>
 <dd>  Poster presentation at <a href="https://ai4healthschool.org/"> AI4Health Summer school</a>: <b>A multiscale algorithm for modelling fetal brain growth </b> </dd>
 
-<dt><img src="https://img.shields.io/badge/March 2023-1138b2.svg"></dt>
+<dt><img src="https://img.shields.io/badge/March 2023-3589a1.svg"></dt>
 <dd>  Poster presentation at <a href="https://iabm2023.sciencesconf.org/"> IABM 2023</a>: <b>A multiscale algorithm for modelling
 fetal brain growth </b> </dd>
     
 
-<dt><img src="https://img.shields.io/badge/Sept. 2022-118ab2.svg"> </dt> 
+<dt><img src="https://img.shields.io/badge/Sept. 2022-2e7a7d.svg"> </dt> 
 <dd>  Poster presentation at <a href="https://fitng.org/"> FIT'NG 2022</a>: <b>A spatio-temporal atlas of the foetal brain with agenesis of the corpus callosum </b> </dd>
 
  <dt>
- <img src="https://img.shields.io/badge/July. 2022-118ab2.svg"></dt>   
+ <img src="https://img.shields.io/badge/July. 2022-2e7a7d.svg"></dt>   
 <dd>  Poster presentation at <a href="https://prairie-institute.fr/"> PRAIRIE</a> event: <b><a href="/assets/img/Poster_multiscale_atlas_estimation.pdf"> Wavelet-based multiscale atlas estimation </a> </b> </dd> 
 
 
@@ -113,7 +113,7 @@ fetal brain growth </b> </dd>
     
 <dl>
 <dt>
-    <img  src="https://img.shields.io/badge/Oct. 2021-00a19e.svg"/></dt>
+    <img  src="https://img.shields.io/badge/Oct. 2021-37695c.svg"/></dt>
 <dd> MICCAI-PIPPI workshop Best Paper Award
  <a href="/assets/img/PIPPI2021_Best_Presentation.png">
     <img src="/assets/img/PIPPI2021_Best_Presentation.png" 
