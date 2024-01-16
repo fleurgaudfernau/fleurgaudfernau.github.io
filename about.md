@@ -2,14 +2,13 @@
 layout: page
 permalink: /
 title: Fleur Gaudfernau
-subtitle: PhD student at Université de Paris / INSERM / INRIA / PR[AI]RIE
+subtitle: Postdoctoral researcher at Université de Paris / INSERM / INRIA / PR[AI]RIE
 ---
 
 <div align="center"><img src="/assets/img/output-onlinegiftools(13).gif" alt="drawing" width="200"/><br /><a href="https://www.deformetrica.org/"> 
     <img src="https://img.shields.io/badge/Made with Deformetrica-656262.svg" width="110"/></a><img src="/assets/img/deformetrica.png" alt="drawing" width="30"/></div>
 
-
-I am a PhD candidate in Applied Mathematics since October 2020. I am supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) and I work in the [HeKA Team](https://team.inria.fr/heka/). My PhD is funded by the [PR[AI]RIE Institute](https://prairie-institute.fr/).
+I completed my PhD in Applied Mathematics in December 2023! I was supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) in the [HeKA Team](https://team.inria.fr/heka/). I am currently pursuing my PhD work with a 6 month postdoctoral position in the same lab.
 
 I work at the interface between neuroscience and mathematics. More specifically, I focus on developing and adapting shape analysis tools to the quantitative analysis of fetal brain images. My goal is to provide precise depiction of healthy brain growth and neurodevelopmental anomalies in order to refine disease diagnosis, predict neurological impairments and improve patients follow-up.
 
