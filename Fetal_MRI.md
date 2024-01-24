@@ -64,7 +64,7 @@ display_categories: [work]
 <td> <a href="https://github.com/FNNDSC/pl-fetal-brain-assessment"> <i class="fas fa-link"></i></a>   </td>
 </tr>
 
-<tr style="border-top:3px solid #2b6777;">
+<tr>
 <td>FetMRQC</td>    
 <td>Fetal MRI quality assessment and control</td>
 <td>Fetal MRI</td>
