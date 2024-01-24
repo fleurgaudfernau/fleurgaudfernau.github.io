@@ -64,6 +64,14 @@ display_categories: [work]
 <td> <a href="https://github.com/FNNDSC/pl-fetal-brain-assessment"> <i class="fas fa-link"></i></a>   </td>
 </tr>
 
+<tr style="border-top:3px solid #2b6777;">
+<td>FetMRQC</td>    
+<td>Fetal MRI Quality Assessment</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/medical-image-analysis-laboratory/fetal_brain_qc"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
+
 
 <tr style="border-top:3px solid #2b6777;">
   <td colspan="4"> <img width=200/> <b>Volume reconstruction 🧊</b> <img width=200/> </td>
