@@ -120,6 +120,18 @@ display_categories: [work]
 </tr>
 
 <tr style="border-top:3px solid #2b6777;">
+  <td colspan="4"> <img width=200/> <b>Brain segmentation</b> <img width=200/> </td>
+ </tr>
+
+<tr>
+<td>MONAIfbs</td>    
+<td>Fetal brain extraction</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/gift-surg/MONAIfbs"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
+
+<tr style="border-top:3px solid #2b6777;">
   <td colspan="4"> <img width=200/> <b>Cortical surface extraction 🧠</b> <img width=200/> </td>
  </tr>
 
