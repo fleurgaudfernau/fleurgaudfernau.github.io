@@ -120,10 +120,10 @@ display_categories: [work]
 </tr>
 
 <tr style="border-top:3px solid #2b6777;">
-  <td colspan="4"> <img width=200/> <b>Brain segmentation</b> <img width=200/> </td>
+  <td colspan="4"> <img width=200/> <b>Brain segmentation ✂️</b> <img width=200/> </td>
  </tr>
 
-<tr>
+<tr style="border-top:3px solid #2b6777;">
 <td>MONAIfbs</td>    
 <td>Fetal brain extraction</td>
 <td>Fetal MRI</td>
