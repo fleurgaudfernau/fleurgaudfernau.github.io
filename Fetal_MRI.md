@@ -131,6 +131,14 @@ display_categories: [work]
 </tr>
 
 <tr>
+<td>Fetal brain seg</td>    
+<td>Fetal brain extraction</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/gift-surg/fetal_brain_seg"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
+
+<tr>
 <td>Trustworthy AI</td>    
 <td>Fetal brain segmentation</td>
 <td>Fetal MRI</td>
@@ -145,11 +153,27 @@ display_categories: [work]
 </tr>
 
 <tr>
+<td>Uncertainty-Guided Interactive Refinement for Segmentation</td>    
+<td>Fetal brain segmentation</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/HiLab-git/UGIR"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
+
+<tr>
 <td>FetalCPseg</td>    
 <td>Cortical plate segmentation</td>
 <td>Fetal MRI</td>
 <td> <a href="https://github.com/wulalago/FetalCPSeg"> <i class="fas fa-link"></i></a>   </td>
 </tr>
+
+<tr>
+<td>Fetal MRI segmentation</td>    
+<td>Cortical plate segmentation</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/afetit/fetal-mri-segmentation"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
 
 
 
