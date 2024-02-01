@@ -138,11 +138,20 @@ display_categories: [work]
 </tr>
 
 <tr>
+<td>CasReg</td>    
+<td>Fetal brain segmentation</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/valbcn/casreg"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
+<tr>
 <td>FetalCPseg</td>    
 <td>Cortical plate segmentation</td>
 <td>Fetal MRI</td>
 <td> <a href="https://github.com/wulalago/FetalCPSeg"> <i class="fas fa-link"></i></a>   </td>
 </tr>
+
+
 
 
 
