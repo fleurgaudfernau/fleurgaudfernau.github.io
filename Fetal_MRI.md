@@ -137,6 +137,13 @@ display_categories: [work]
 <td> <a href="https://github.com/LucasFidon/trustworthy-ai-fetal-brain-segmentation"> <i class="fas fa-link"></i></a>   </td>
 </tr>
 
+<tr>
+<td>FetalCPseg</td>    
+<td>Cortical plate segmentation</td>
+<td>Fetal MRI</td>
+<td> <a href="https://github.com/wulalago/FetalCPSeg"> <i class="fas fa-link"></i></a>   </td>
+</tr>
+
 
 
 <tr style="border-top:3px solid #2b6777;">
