@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Fetal_MRI/
-title: Fetal MRI Processing Tools (last update: Feb. 2024)
+title: Fetal MRI Processing Tools
 show-avatar: true
 display_categories: [work]
 ---
@@ -176,9 +176,12 @@ Finding it hard to navigate the blooming field of fetal (and neonatal) brain MRI
 <td> <a href="https://github.com/afetit/fetal-mri-segmentation"> <i class="fas fa-link"></i></a>   </td>
 </tr>
 
-
-
-
+<tr>
+<td>Brainbox</td>    
+<td>Collaborative manual segmentation</td>
+<td>Any brain MRI</td>
+<td> <a href="https://brainbox.pasteur.fr/"> <i class="fas fa-link"></i></a>   </td>
+</tr>
 
 
 <tr style="border-top:3px solid #2b6777;">
