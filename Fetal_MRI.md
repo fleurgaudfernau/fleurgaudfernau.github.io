@@ -6,6 +6,8 @@ show-avatar: true
 display_categories: [work]
 ---
 
+Finding it hard to navigate the blooming field of fetal (and neonatal) brain MRI research, I summarize here some very useful tools for performing data processing and analysis.
+
 <table>
 <tr> <th>  Software/Tool name   </th>
 <th>  <img width=80/>  Tasks <img width=80/>  </th>
@@ -217,4 +219,16 @@ display_categories: [work]
 <td>T1 adult and neonatal MRI</td>
 <td> <a href="http://mirtk.github.io/"> <i class="fas fa-link"></i></a>  </td>
 </tr>  
+
+<tr style="border-top:3px solid #2b6777;">
+  <td colspan="4"> <img width=200/> <b> Analysis</b> <img width=200/> </td>
+ </tr>
+
+<tr style="border-top:3px solid #2b6777;">
+<td>structural-pipeline-measures</td>    
+<td> Volume and cortical surface measurements</td>
+<td>Neonatal brain MRI (T1 & T2)</td>
+<td> <a href="https://github.com/amakropoulos/structural-pipeline-measures"> <i class="fas fa-link"></i></a>  </td>
+</tr>
+
  </table>
