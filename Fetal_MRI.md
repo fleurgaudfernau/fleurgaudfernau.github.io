@@ -16,12 +16,12 @@ Finding it hard to navigate the blooming field of fetal (and neonatal) brain MRI
 </tr>
 
  <tr>
-  <td colspan="4"> <img width=200/> <b>Visualization 👀</b> <img width=200/> </td>
+  <td colspan="4"> <img width=200/> <b>Visualization and edition 👀</b> <img width=200/> </td>
  </tr>
       
 <tr style="border-top:3px solid #2b6777;">
 <td>ITK Snap</td>    
-<td>MRI visualization</td>
+<td>MRI visualization and segmentation</td>
 <td>Multiple formats, e.g. nifti, DICOM... </td>
 <td> <a href="http://www.itksnap.org/pmwiki/pmwiki.php"> <i class="fas fa-link"></i></a> </td>
 </tr>
@@ -50,9 +50,16 @@ Finding it hard to navigate the blooming field of fetal (and neonatal) brain MRI
       
 <tr>
 <td>Paraview</td>    
-<td>Objects visualization (images, meshes, glyphs...)</td>
+<td>Objects visualization and edition (images, meshes, glyphs...)</td>
 <td>Multiple formats, e.g. .vtk, .vtp...</td>
 <td> <a href="https://www.paraview.org/"> <i class="fas fa-link"></i></a>  </td>
+</tr>
+
+<tr>
+<td>Slicer 3D</td>    
+<td>Images visualization, edition and segmentation </td>
+<td>.nii</td>
+<td> <a href="https://www.slicer.org/"> <i class="fas fa-link"></i></a>  </td>
 </tr>
 
 <tr style="border-top:3px solid #2b6777;">
