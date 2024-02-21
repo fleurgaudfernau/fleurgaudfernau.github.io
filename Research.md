@@ -54,7 +54,7 @@ display_categories: [work]
 ### Talks
 
  <dl>  <dt><img src="https://img.shields.io/badge/Jan. 2024-5a95c1.svg"></dt>
-<dd> Presentation at the<a href="https://shape-analysis.github.io/"> Paris shape seminar</a>: <b>Multiscale optimisation for shape registration</b> <a href="[/assets/img/zoom_4.mp4](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/2654259/A-multiscale-algorithm-for-computing-realistic-image-transformation--application/10.1117/12.2654259.short?SSO=1)"> Link to the presentation </a> 
+<dd> Presentation at the<a href="https://shape-analysis.github.io/"> Paris shape seminar</a>: <b>Multiscale optimisation for shape registration</b> <a href="https://www.youtube.com/watch?v=kp8W91WkfKw"> Link to the presentation </a> 
     </dd></dl>
 
  <dl>  <dt><img src="https://img.shields.io/badge/Sept. 2023-3589a1.svg"></dt>
@@ -65,7 +65,7 @@ display_categories: [work]
 
  <dl>  <dt><img src="https://img.shields.io/badge/Feb. 2023-3589a1.svg"></dt>
 <dd> Presentation at<a href="https://spie.org/conferences-and-exhibitions/medical-imaging/program/browse-program ">  SPIE Medical Imaging 2023:</a> <b>A multiscale algorithm for computing realistic image transformations in the LDDMM framework – application to the modelling of fetal brain growth </b> 
-     <a href="[/assets/img/zoom_4.mp4](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/2654259/A-multiscale-algorithm-for-computing-realistic-image-transformation--application/10.1117/12.2654259.short?SSO=1)"> Link to the presentation </a> 
+     <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/2654259/A-multiscale-algorithm-for-computing-realistic-image-transformation--application/10.1117/12.2654259.short?SSO=1"> Link to the presentation </a> 
     </dd></dl>
 
 <dl><dt><img src="https://img.shields.io/badge/June 2022-2e7a7d.svg"></dt>
