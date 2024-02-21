@@ -8,6 +8,12 @@ display_categories: [work]
 
 <div align="center"><img src="/assets/img/output-onlinegiftools(14).gif" width="200"/><br /><a href="https://www.deformetrica.org/"> 
     <img src="https://img.shields.io/badge/Made with Deformetrica-656262.svg" width="110"/></a><img src="/assets/img/deformetrica.png" alt="drawing" width="30"/></div>
+
+### PhD thesis
+
+<b>Analyse quantitative du développement cérébral foetal sain et anormal à l'aide de modèles de déformation</b><br>
+     <font size="3"> Fleur Gaudfernau</font><br>
+      <a href="https://ephe.hal.science/tel-04453836v1"> <img src="https://img.shields.io/badge/Read on HAL-636a77.svg" /> </a> 
     
 ### Preprints
         
