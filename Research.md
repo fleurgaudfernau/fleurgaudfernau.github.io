@@ -12,8 +12,10 @@ display_categories: [work]
 ### PhD thesis
 
 <b>Analyse quantitative du développement cérébral foetal sain et anormal à l'aide de modèles de déformation</b><br>
-     <font size="3"> Fleur Gaudfernau</font><br>
+     <font size="3"> Fleur Gaudfernau, under the supervision of Stéphanie Allassonnière and Erwan Le Pennec</font><br>
       <a href="https://ephe.hal.science/tel-04453836v1"> <img src="https://img.shields.io/badge/Read on HAL-636a77.svg" /> </a> 
+
+<hr style="border:1px solid #2b6777"/>
     
 ### Preprints
         
