@@ -61,6 +61,10 @@ display_categories: [work]
 
 ### Talks
 
+ <dl>  <dt><img src="https://img.shields.io/badge/Sept. 2024-5a95c1.svg"></dt>
+<dd> Presentation at the<a href="http://fondation-lumiere.org/la-plateforme-lumiere/"> Cocktail scientifique de la plateforme Lumière</a>: <b>Atlas spatiotemporel du cerveau foetal</b> 
+    </dd></dl>
+
  <dl>  <dt><img src="https://img.shields.io/badge/Jan. 2024-5a95c1.svg"></dt>
 <dd> Presentation at the<a href="https://shape-analysis.github.io/"> Paris shape seminar</a>: <b>Multiscale optimisation for shape registration</b> <a href="https://www.youtube.com/watch?v=kp8W91WkfKw"> Link to the presentation </a> 
     </dd></dl>
