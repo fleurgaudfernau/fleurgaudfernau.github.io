@@ -62,7 +62,7 @@ display_categories: [work]
 ### Talks
 
  <dl>  <dt><img src="https://img.shields.io/badge/Sept. 2024-5a95c1.svg"></dt>
-<dd> Presentation at the<a href="http://fondation-lumiere.org/la-plateforme-lumiere/"> Cocktail scientifique de la plateforme Lumière</a>: <b>Atlas spatiotemporel du cerveau foetal</b> 
+<dd> Presentation at the Cocktail scientifique<a href="http://fondation-lumiere.org/la-plateforme-lumiere/"> de la plateforme Lumière</a>: <b>Atlas spatiotemporel du cerveau foetal</b> 
     </dd></dl>
 
  <dl>  <dt><img src="https://img.shields.io/badge/Jan. 2024-5a95c1.svg"></dt>
@@ -72,8 +72,6 @@ display_categories: [work]
  <dl>  <dt><img src="https://img.shields.io/badge/Sept. 2023-3589a1.svg"></dt>
 <dd> Presentation at<a href="https://gretsi.fr/colloque2023/programme/"> GRETSI 2023:</a> <b>Un algorithme multiéchelle pour déformer les objets de façon réaliste – application à la modélisation de la croissance du cerveau foetal</b> 
     </dd></dl>
-
-
 
  <dl>  <dt><img src="https://img.shields.io/badge/Feb. 2023-3589a1.svg"></dt>
 <dd> Presentation at<a href="https://spie.org/conferences-and-exhibitions/medical-imaging/program/browse-program ">  SPIE Medical Imaging 2023:</a> <b>A multiscale algorithm for computing realistic image transformations in the LDDMM framework – application to the modelling of fetal brain growth </b> 
