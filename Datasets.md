@@ -8,7 +8,7 @@ display_categories: [work]
 During my PhD, I got to experience how rare open-source datasets of fetal brain MRIs -or their derivatives- are. One is often left to wander around the internet and research papers in the hope of finding this limited resource. 
 Here are two lists of all the open-source datasets that I encountered (checked and approved): 
 
-### Datasets of fetal brain MRIs & derivatives (last update: June 2023) 
+### Datasets of fetal brain MRIs & derivatives (last update: Oct. 2024) 
 
 <table>
    
