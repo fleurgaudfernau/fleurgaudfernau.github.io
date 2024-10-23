@@ -91,13 +91,13 @@ Here are two lists of all the open-source datasets that I encountered (checked a
       <td>Fetal brain spatiotemporal atlas</td>
        <td>T1 & T2 MRI</td>
        <td>T1, T2, diffusion and tissue parcellation templates between 21-36 weeks</td>
-       <td><a href="https://gin.g-node.org/doi/dhcp_fetal_brain_surface_atlas"> <i class="fas fa-link"></i></a>
+       <td><a href="https://gin.g-node.org/doi/fetal_brain_mri_atlas"> <i class="fas fa-link"></i></a>
           </td></tr>
 
    <tr><td>2023</td>
       <td>Karolis et al.</td>
       <td>Fetal cortical surface atlas (🧠)</td>
-       <td>T2 MRI</td>
+       <td>Meshes</td>
        <td>Pial, mid-thickness, white matter and very inflated surfaces between 21-36 weeks</td>
        <td><a href="https://gin.g-node.org/doi/dhcp_fetal_brain_surface_atlas"> <i class="fas fa-link"></i></a>
           </td></tr>
